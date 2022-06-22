@@ -1,0 +1,1 @@
+web: cd API && daphne API.asgi:application
