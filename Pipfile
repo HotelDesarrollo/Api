@@ -17,6 +17,7 @@ python-decouple = "*"
 psycopg2-binary = "*"
 twisted = "*"
 whitenoise = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
