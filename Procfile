@@ -1,1 +1,1 @@
-web: aphne API.asgi:application
+web: daphne API.asgi:application
